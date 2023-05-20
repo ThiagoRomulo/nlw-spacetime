@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode", //Formatar os espaços
+    "PKief.material-icon-theme", //Ícones do VSCode
+    "rocketseat.theme-omni", //Thema do VSCode (Cores)
+    "ritwickdey.LiveServer" //LiveServer
+  ]
+}
